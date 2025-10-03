@@ -30,7 +30,7 @@
 ## 📦 Kurulum
 ```bash
 # Repoyu klonla
-git clone https://github.com/GorkemParadise/llm-project.git
+git clone https://github.com/GorkemParadise/Large-Language-Model-V1.git
 
 # Klasöre gir
 cd llm-project
