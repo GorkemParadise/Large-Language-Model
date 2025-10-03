@@ -1,4 +1,4 @@
-# 🧠 LLM Project - Version I - 14 Temmuz 2025 - 3 Ekim 2025
+# 🧠 LLM Project - Version I
 
  Modelin V1 versionunu colab'de başlat: 
  [![Colab ile Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18VKzIy39rldxmE8synfAf7qjmqs6r1NR?usp=sharing)
@@ -7,6 +7,8 @@
 - Maksimum **64 token** kapasitesine sahip.  
 - Küçük ve deneme amaçlı bir prototip.  
 - Temel metin üretim görevlerini yapabiliyor.
+- Başlangıç: 14 Temmuz 2025
+- Bitiş: 3 Ekim 2025
   
 ---
 
