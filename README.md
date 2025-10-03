@@ -1,4 +1,4 @@
-# 🧠 LLM Project - Version 1 - 14 Temmuz 2025 - 3 Ekim 2025
+# 🧠 LLM Project - Version I - 14 Temmuz 2025 - 3 Ekim 2025
 
  Modelin V1 versionunu colab'de başlat: 
  [![Colab ile Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18VKzIy39rldxmE8synfAf7qjmqs6r1NR?usp=sharing)
