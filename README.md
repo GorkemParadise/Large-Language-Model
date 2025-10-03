@@ -1,1 +1,36 @@
-# Large-Language-Model
+# 🧠 LLM Project
+
+ Modelin V1 versionunu colab'de başlat: https://colab.research.google.com/drive/18VKzIy39rldxmE8synfAf7qjmqs6r1NR?usp=sharing
+
+📌 **V1 Modelim**:  
+- Maksimum **64 token** kapasitesine sahip.  
+- Küçük ve deneme amaçlı bir prototip.  
+- Temel metin üretim görevlerini yapabiliyor.
+  
+---
+
+## 🚀 Özellikler
+- Kullanıcı girişine göre basit metin öngörüşü ✍️
+- Küçük boyutlu, öğrenme odaklı deneysel model  
+- Sonraki versiyonlar için geliştirilmeye açık yapı  
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+- Python 🐍
+- PyTorch
+- Hugging Face Transformers 🤗
+- NumPy & Pandas
+
+---
+
+## 📦 Kurulum
+```bash
+# Repoyu klonla
+git clone https://github.com/kullaniciadiniz/llm-project.git
+
+# Klasöre gir
+cd llm-project
+
+# Gerekli kütüphaneleri yükle
+pip install -r requirements.txt
