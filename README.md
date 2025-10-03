@@ -33,7 +33,4 @@
 git clone https://github.com/GorkemParadise/Large-Language-Model-V1.git
 
 # Klasöre gir
-cd llm-project
-
-# Gerekli kütüphaneleri yükle
-pip install -r requirements.txt
+cd Large-Language-Model-V1
