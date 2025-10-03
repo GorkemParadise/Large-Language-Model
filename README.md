@@ -1,6 +1,7 @@
 # 🧠 LLM Project
 
- Modelin V1 versionunu colab'de başlat: https://colab.research.google.com/drive/18VKzIy39rldxmE8synfAf7qjmqs6r1NR?usp=sharing
+ Modelin V1 versionunu colab'de başlat: 
+ [![Colab ile Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18VKzIy39rldxmE8synfAf7qjmqs6r1NR?usp=sharing)
 
 📌 **V1 Modelim**:  
 - Maksimum **64 token** kapasitesine sahip.  
