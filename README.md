@@ -1,8 +1,10 @@
 # 🧠 LLM Project - Version I
 
  Start to V1 model on colab: 
- [![Colab ile Aç](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18VKzIy39rldxmE8synfAf7qjmqs6r1NR?usp=sharing)
+ [![Open with Colab]](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18VKzIy39rldxmE8synfAf7qjmqs6r1NR?usp=sharing)
 
+ Watch to Turkish introduction video on Youtube:
+ [![Open with Youtube]](https://youtu.be/AIG2jyND5PY?si=klzHCG8FDD_QEMw3)
 📌 **My V1 Model**:  
 - It has 64 tokens
 - Small prototype for testing.
