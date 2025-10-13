@@ -5,6 +5,7 @@
 
  Watch to Turkish introduction video on Youtube:
  [![Open with Youtube]](https://youtu.be/AIG2jyND5PY?si=klzHCG8FDD_QEMw3)
+
 📌 **My V1 Model**:  
 - It has 64 tokens
 - Small prototype for testing.
